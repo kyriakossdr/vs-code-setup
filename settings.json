@@ -1,8 +1,8 @@
 {
-  "editor.lineHeight": 1.4,
-  "editor.fontSize": 21,
   "editor.fontWeight": 500,
   "editor.fontFamily": "Anonymous Pro",
+  "editor.fontSize": 17,
+  "fontshortcuts.defaultFontSize": 17,
   "editor.linkedEditing": true,
   "editor.snippetSuggestions": "top",
   "editor.formatOnPaste": false,
@@ -25,6 +25,7 @@
   "workbench.sideBar.location": "right",
 
   "terminal.integrated.fontSize": 18,
+  "fontshortcuts.defaultTerminalFontSize": 18,
   "terminal.integrated.letterSpacing": 1.2,
   "terminal.integrated.cursorStyle": "underline",
   "terminal.integrated.defaultProfile.windows": "Git Bash",
@@ -72,5 +73,6 @@
     "**/node_modules": true,
     "**/bower_components": true,
     "**/*.code-search": true
-  }
+  },
+  "editor.lineHeight": 0
 }
