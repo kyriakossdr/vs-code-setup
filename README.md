@@ -10,6 +10,7 @@
   - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
   - [Go](https://marketplace.visualstudio.com/items?itemName=golang.Go)
   - [PostCSS Intellisense and Highlighting](https://marketplace.visualstudio.com/items?itemName=vunguyentuan.vscode-postcss)
+  - [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml)
  
   - [Django Template](https://marketplace.visualstudio.com/items?itemName=bibhasdn.django-html)
   - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -29,6 +30,7 @@
  
 - Other tools
   - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
   - [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
   - [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
   - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
